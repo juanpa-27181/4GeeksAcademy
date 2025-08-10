@@ -1,5 +1,6 @@
-template: "online-cv"
-skin: "ceramic"
+github: juanpa-27181
+template: online-cv
+skin: ceramic
 
 basic_info:
 
@@ -15,11 +16,11 @@ basic_info:
 
     email: jpguerra81@ucatolica.edu.co
     phone: +57 3213887881
-    website:
-    linkedin: www.linkedin.com/in/juan-pablo-guerra-porras-9608a9218/?originalSubdomain=co
+    website: ""
+    linkedin: https://www.linkedin.com/in/juan-pablo-guerra-porras-9608a9218/
     github: juanpa-27181
-    twitter:
-    stack-overflow:
+    twitter: ""
+    stack-overflow: ""
 
     languages:
       - idiom: English
@@ -41,17 +42,17 @@ basic_info:
       - item: Traveling
 
 education:
-    - degree: 
-      university:
-      university_logo: 
-      time:
-      details: 
+    - degree: ""
+      university: ""
+      university_logo: ""
+      time: ""
+      details: ""
 
-    - degree: 
-      university: 
-      university_logo: 
-      time: 
-      details: 
+    - degree: ""
+      university: ""
+      university_logo: ""
+      time: ""
+      details: ""
         
 experiences:
     - role: Student
@@ -61,17 +62,17 @@ experiences:
       details: |
         Learning HTML, CSS, Bootstrap4, JS, Angular, React, SQL, Python during the intensive bootcamp
  
-    - role: 
-      time: 
-      company: 
-      company_logo:
-      details:
+    - role: "" 
+      time: ""
+      company: "" 
+      company_logo: ""
+      details: ""
 
-    - role:
-      time:
-      company:
-      company_logo:
-      details:
+    - role: ""
+      time: ""
+      company: ""
+      company_logo: ""
+      details: ""
       
 projects:
     intro: >
